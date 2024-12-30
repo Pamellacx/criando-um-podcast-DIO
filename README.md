@@ -1,6 +1,8 @@
 # criando-um-podcast-DIO
 Esse Podcast foi criado com as orientações da DIO - no Bootcamp CAIXA - IA Generativa com Microsoft Copilot
 
+Nome do Podcast: "Deixa os dados falarem"
+
 Tecnologias utilizadas no projeto:
 - [ChatGPT](https://chat.openai.com/)
 - [ElevenLabs](https://elevenlabs.io/)
